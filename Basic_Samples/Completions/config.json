@@ -1,6 +1,6 @@
 {
-    "CHATGPT_MODEL":"<ChatGPT Model Name>",
-    "COMPLETIONS_MODEL":"<Completions Model Name>",
-    "OPENAI_API_BASE":"https://<Your Azure Resource Name>.openai.azure.com",
-    "OPENAI_API_VERSION":"<OpenAI API Version>"
+    "CHATGPT_MODEL":"aradllmpoc-gpt35turbo-model",
+    "COMPLETIONS_MODEL":"aradllmpoc-davinci-model",
+    "OPENAI_API_BASE":"https://aradllmpoc-openai-resource.openai.azure.com/",
+    "OPENAI_API_VERSION":"2022-12-01"
 }
